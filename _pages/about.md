@@ -12,7 +12,7 @@ Daocheng Fu is a Ph.D. candidate at Fudan University’s College of Computer Sci
 
 ## Selected Publications
 
-### Multi-modal Reasoning
+### (M)LLM Reasoning
 
 - [TrustGeoGen: Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving](/publication/trustgeogen)
 
