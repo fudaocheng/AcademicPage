@@ -23,7 +23,7 @@ Work experience
   * Supervisor: Dr. [Botian Shi](https://scholar.google.com/citations?user=K0PpvLkAAAAJ&hl=en) & Dr. [Pinlong Cai](https://scholar.google.com/citations?user=H6mQGfAAAAAJ&hl=zh-CN)
   
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
