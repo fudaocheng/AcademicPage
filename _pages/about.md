@@ -12,7 +12,7 @@ Daocheng Fu is a Ph.D. candidate at Fudan University’s College of Computer Sci
 
 ## News
 
-- [2025-09-30] A study on the relationship between search agents and their search environments has been released, highlighting the significant role of reflective behavior in enhancing agent stability, [link](https://arxiv.org/abs/2509.26048).
+- [2025-09-30] [RE-Searcher]((https://arxiv.org/abs/2509.26048)) investigates the relationship between search agents and the search environment, proposing a solution to enhance the agent's stability.
 - [2025-08-29] we release the GeoTrust-train & GeoTrust-test dataset at [huggingface](https://huggingface.co/datasets/U4R/GeoTrust), learn more about the data at [here](https://arxiv.org/abs/2504.15780).
 
 
