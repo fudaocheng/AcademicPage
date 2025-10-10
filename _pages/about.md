@@ -12,8 +12,9 @@ Daocheng Fu is a Ph.D. candidate at Fudan University’s College of Computer Sci
 
 ## News
 
-- [2025-09-30] [RE-Searcher]((https://arxiv.org/abs/2509.26048)) investigates the relationship between search agents and the search environment, proposing a solution to enhance the agent's stability.
-- [2025-08-29] we release the GeoTrust-train & GeoTrust-test dataset at [huggingface](https://huggingface.co/datasets/U4R/GeoTrust), learn more about the data at [here](https://arxiv.org/abs/2504.15780).
+- [2025-09-30] [RE-Searcher](https://arxiv.org/abs/2509.26048) investigates the relationship between search agents and the search environment, proposing a solution to enhance the agent's stability.
+- [2025-08-30] We release the GeoTrust-train & GeoTrust-test dataset at [huggingface](https://huggingface.co/datasets/U4R/GeoTrust).
+- [2025-08-29] [TrustGeoGen](https://arxiv.org/abs/2504.15780) is a data engine for multimodal geometric reasoning, built upon a formal engine, designed to synthesize challenging, full-modality, and trustworthy geometric reasoning data. The introduction of `Connection Thinking` and `Thinking Template` enhances the geometric reasoning capabilities of Large Multimodal Models (LMMs) without compromising their general abilities.
 
 
 ## Selected Publications
