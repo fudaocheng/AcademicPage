@@ -1,7 +1,7 @@
 ---
 title: "$$O^2$$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/o2searcher
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-05-22

@@ -1,7 +1,7 @@
 ---
 title: "RE-Searcher: Robust Agentic Search with Goal-oriented Planning and Self-reflection"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/RESearcher
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-09-30

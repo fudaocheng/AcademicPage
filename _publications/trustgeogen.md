@@ -1,7 +1,7 @@
 ---
 title: "TrustGeoGen: Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/trustgeogen
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-04-22
