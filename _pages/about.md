@@ -18,6 +18,8 @@ Daocheng Fu is a Ph.D. candidate at Fudan University’s College of Computer Sci
 
 ## Selected Publications
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=vIU6eHYAAAAJ&hl=zh-CN).
+
 ### Search Agent
 
 - [RE-Searcher: Robust Agentic Search with Goal-oriented Planning and Self-reflection](/publication/RESearcher)
