@@ -28,23 +28,23 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [The Agent's First Day: Benchmarking Learning, Exploration, and Scheduling in the Workplace Scenarios](/AcademicPage/publication/traineebench)
 
-  **Daocheng Fu\***, Jianbiao Mei*, Rong Wu*, Xuemeng Yang*, Jia Xu, Ding Wang, Pinlong Cai, Yong Liu, Licheng Wen, Botian Shi
+  **Daocheng Fu\***, Jianbiao Mei\*, Rong Wu\*, Xuemeng Yang\*, Jia Xu, Ding Wang, Pinlong Cai, Yong Liu, Licheng Wen, Botian Shi
 
 ### Search Agent
 
 - [RE-Searcher: Robust Agentic Search with Goal-oriented Planning and Self-reflection](/AcademicPage/publication/RESearcher)
 
-  **Daocheng Fu\***, Jianbiao Mei*, Licheng Wen, Xuemeng Yang, Cheng Yang, Rong Wu, Tao Hu, Siqi Li, Yufan Shen, Xinyu Cai, Pinlong Cai, Botian Shi, Yong Liu, Yu Qiao
+  **Daocheng Fu\***, Jianbiao Mei\*, Licheng Wen, Xuemeng Yang, Cheng Yang, Rong Wu, Tao Hu, Siqi Li, Yufan Shen, Xinyu Cai, Pinlong Cai, Botian Shi, Yong Liu, Yu Qiao
 
 - [$O^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](/AcademicPage/publication/o2searcher)
 
-  Jianbiao Mei*, Tao Hu*, **Daocheng Fu\***, Licheng Wen, Xuemeng Yang, Rong Wu, Pinlong Cai, Xinyu Cai, Xing Gao, Yu Yang, Chengjun Xie, Botian Shi, Yong Liu, Yu Qiao
+  Jianbiao Mei\*, Tao Hu\*, **Daocheng Fu\***, Licheng Wen, Xuemeng Yang, Rong Wu, Pinlong Cai, Xinyu Cai, Xing Gao, Yu Yang, Chengjun Xie, Botian Shi, Yong Liu, Yu Qiao
 
 ### Multi-modal Reasoning
 
 - [TrustGeoGen: Formal-Verified Data Engine for Trustworthy Multi-modal Geometric Problem Solving](/AcademicPage/publication/trustgeogen)
 
-  **Daocheng Fu\***, Jianlong Chen*, Renqiu Xia*, Zijun Chen*, Qi Liu, Yuan Feng, Hongbin Zhou, Renrui Zhang, Shiyang Feng, Peng Gao, Hongyuan Zha, Junchi Yan, Botian Shi, Yu Qiao, Bo Zhang
+  **Daocheng Fu\***, Jianlong Chen\*, Renqiu Xia\*, Zijun Chen\*, Qi Liu, Yuan Feng, Hongbin Zhou, Renrui Zhang, Shiyang Feng, Peng Gao, Hongyuan Zha, Junchi Yan, Botian Shi, Yu Qiao, Bo Zhang
 
 - [Milestones over Outcome: Unlocking Geometric Reasoning with Sub-Goal Verifiable Reward](/AcademicPage/publication/sgvr)
 
@@ -54,23 +54,23 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](/AcademicPage/publication/drive_like_a_human)
 
-  **Daocheng Fu\***, Licheng Wen*, Xin Li*, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao 
+  **Daocheng Fu\***, Licheng Wen\*, Xin Li\*, Min Dou, Pinlong Cai, Botian Shi, Yu Qiao 
 
 - [Dilu: A knowledge-driven approach to autonomous driving with large language models](/AcademicPage/publication/DiLu)
 
-  Licheng Wen*, **Daocheng Fu\***, Xin Li*, Xinyu Cai, Tao Ma, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao
+  Licheng Wen\*, **Daocheng Fu\***, Xin Li\*, Xinyu Cai, Tao Ma, Pinlong Cai, Min Dou, Botian Shi, Liang He, Yu Qiao
 
 - [LimSim: A long-term interactive multi-scenario traffic simulator](/AcademicPage/publication/LimSim)
 
-  Licheng Wen*, **Daocheng Fu\***, Song Mao, Pinlong Cai, Min Dou, Yikang Li, Yu Qiao
+  Licheng Wen\*, **Daocheng Fu\***, Song Mao, Pinlong Cai, Min Dou, Yikang Li, Yu Qiao
 
 - [Limsim++: A closed-loop platform for deploying multimodal llms in autonomous driving](/AcademicPage/publication/limsim_plus)
 
-  **Daocheng Fu\***, Wenjie Lei*, Licheng Wen, Pinlong Cai, Song Mao, Min Dou, Botian Shi, Yu Qiao
+  **Daocheng Fu\***, Wenjie Lei\*, Licheng Wen, Pinlong Cai, Song Mao, Min Dou, Botian Shi, Yu Qiao
 
 - [SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration](/AcademicPage/publication/SymDrive)
 
-  Zhiyuan Liu*, **Daocheng Fu\***, Pinlong Cai, Lening Wang, Ying Liu, Yilong Ren, Botian Shi, Jianqiang Wang
+  Zhiyuan Liu\*, **Daocheng Fu\***, Pinlong Cai, Lening Wang, Ying Liu, Yilong Ren, Botian Shi, Jianqiang Wang
 
 
 ### Traffic & Transportation
@@ -81,4 +81,4 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 - [Trafficgpt: Viewing, processing and interacting with traffic foundation models](/AcademicPage/publication/trafficgpt)
 
-  Siyao Zhang*, **Daocheng Fu\***, Wenzhe Liang, Zhao Zhang, Bin Yu, Pinlong Cai, Baozhen Yao
+  Siyao Zhang\*, **Daocheng Fu\***, Wenzhe Liang, Zhao Zhang, Bin Yu, Pinlong Cai, Baozhen Yao
