@@ -36,7 +36,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
   **Daocheng Fu\***, Jianbiao Mei\*, Licheng Wen, Xuemeng Yang, Cheng Yang, Rong Wu, Tao Hu, Siqi Li, Yufan Shen, Xinyu Cai, Pinlong Cai, Botian Shi, Yong Liu, Yu Qiao
 
-- [$O^2$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](/AcademicPage/publication/o2searcher)
+- [$$O^2$$-Searcher: A Searching-based Agent Model for Open-Domain Open-Ended Question Answering](/AcademicPage/publication/o2searcher)
 
   Jianbiao Mei\*, Tao Hu\*, **Daocheng Fu\***, Licheng Wen, Xuemeng Yang, Rong Wu, Pinlong Cai, Xinyu Cai, Xing Gao, Yu Yang, Chengjun Xie, Botian Shi, Yong Liu, Yu Qiao
 
