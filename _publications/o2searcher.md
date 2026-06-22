@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/o2searcher
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-05-22
-venue: 'arXiv'
+venue: 'TMLR'
 paperurl: 'https://arxiv.org/pdf/2505.16582'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
