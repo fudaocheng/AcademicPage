@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/SymDrive
 # excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-12-25
-venue: 'arXiv'
+venue: 'IROS 2026'
 paperurl: 'https://arxiv.org/abs/2512.21618'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
